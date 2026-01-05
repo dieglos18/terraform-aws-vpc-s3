@@ -104,21 +104,3 @@ All resources are designed to stay within AWS Free Tier limits:
 2. **Always destroy** resources after practice to avoid charges
 3. The S3 bucket name must be globally unique
 4. Ensure your AWS credentials have sufficient permissions
-
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests with improvements!
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👤 Author
-
-Your Name - [@your_github](https://github.com/YOUR_USERNAME)
-
-## 🙏 Acknowledgments
-
-- AWS Free Tier documentation
-- Terraform documentation
-- HashiCorp Learn tutorials
